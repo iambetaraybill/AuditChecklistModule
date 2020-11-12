@@ -1,0 +1,531 @@
+INFO  09:14:42 Application started. Press Ctrl+C to shut down.
+INFO  09:14:42 Application started. Press Ctrl+C to shut down.
+INFO  09:14:42 Hosting environment: Development
+INFO  09:14:42 Hosting environment: Development
+INFO  09:14:42 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:14:42 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:15:07 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:15:07  Http GET request calledChecklistProvider
+INFO  09:15:07 Log from ChecklistRepo
+INFO  09:15:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:15:21  Http GET request calledChecklistProvider
+INFO  09:15:21 Log from ChecklistRepo
+INFO  09:17:22 Application started. Press Ctrl+C to shut down.
+INFO  09:17:22 Application started. Press Ctrl+C to shut down.
+INFO  09:17:22 Hosting environment: Development
+INFO  09:17:22 Hosting environment: Development
+INFO  09:17:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:17:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:17:28 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:17:28  Http GET request calledChecklistProvider
+INFO  09:17:28 Log from ChecklistRepo
+INFO  09:17:33 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:18:51 Application started. Press Ctrl+C to shut down.
+INFO  09:18:51 Application started. Press Ctrl+C to shut down.
+INFO  09:18:51 Hosting environment: Development
+INFO  09:18:51 Hosting environment: Development
+INFO  09:18:51 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:18:51 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:19:57 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:20:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:03:10 Application started. Press Ctrl+C to shut down.
+INFO  11:03:10 Application started. Press Ctrl+C to shut down.
+INFO  11:03:10 Hosting environment: Development
+INFO  11:03:10 Hosting environment: Development
+INFO  11:03:10 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:03:10 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:05:35 Application started. Press Ctrl+C to shut down.
+INFO  11:05:35 Application started. Press Ctrl+C to shut down.
+INFO  11:05:35 Hosting environment: Development
+INFO  11:05:35 Hosting environment: Development
+INFO  11:05:35 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:05:35 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:08:23 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:08:23  Http GET request calledChecklistProvider
+INFO  11:08:23 Log from ChecklistRepo
+INFO  11:17:03 Application started. Press Ctrl+C to shut down.
+INFO  11:17:03 Application started. Press Ctrl+C to shut down.
+INFO  11:17:03 Hosting environment: Development
+INFO  11:17:03 Hosting environment: Development
+INFO  11:17:03 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:17:03 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:19:32 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:19:40  Http GET request calledChecklistProvider
+INFO  11:19:44 Log from ChecklistRepo
+INFO  11:34:12 Application started. Press Ctrl+C to shut down.
+INFO  11:34:13 Application started. Press Ctrl+C to shut down.
+INFO  11:34:13 Hosting environment: Development
+INFO  11:34:13 Hosting environment: Development
+INFO  11:34:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:34:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:35:39 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:35:39  Http GET request calledChecklistProvider
+INFO  11:35:39 Log from ChecklistRepo
+INFO  11:38:22 Application started. Press Ctrl+C to shut down.
+INFO  11:38:22 Application started. Press Ctrl+C to shut down.
+INFO  11:38:22 Hosting environment: Development
+INFO  11:38:22 Hosting environment: Development
+INFO  11:38:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:38:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:39:02 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:39:02  Http GET request calledChecklistProvider
+INFO  11:39:02 Log from ChecklistRepo
+INFO  11:39:11 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:39:11  Http GET request calledChecklistProvider
+INFO  11:39:11 Log from ChecklistRepo
+INFO  11:43:22 Application started. Press Ctrl+C to shut down.
+INFO  11:43:22 Application started. Press Ctrl+C to shut down.
+INFO  11:43:22 Hosting environment: Development
+INFO  11:43:22 Hosting environment: Development
+INFO  11:43:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:43:22 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  11:44:09 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:44:09  Http GET request calledChecklistProvider
+INFO  11:44:09 Log from ChecklistRepo
+INFO  11:44:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:44:21  Http GET request calledChecklistProvider
+INFO  11:44:21 Log from ChecklistRepo
+INFO  11:45:15 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:45:15  Http GET request calledChecklistProvider
+INFO  11:45:15 Log from ChecklistRepo
+INFO  11:45:22 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:45:22  Http GET request calledChecklistProvider
+INFO  11:45:22 Log from ChecklistRepo
+INFO  12:04:48 Application started. Press Ctrl+C to shut down.
+INFO  12:04:48 Application started. Press Ctrl+C to shut down.
+INFO  12:04:48 Hosting environment: Development
+INFO  12:04:48 Hosting environment: Development
+INFO  12:04:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:04:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:05:19 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:05:19  Http GET request calledChecklistProvider
+INFO  12:05:19 Log from ChecklistRepo
+INFO  12:13:00 Application started. Press Ctrl+C to shut down.
+INFO  12:13:00 Application started. Press Ctrl+C to shut down.
+INFO  12:13:00 Hosting environment: Development
+INFO  12:13:00 Hosting environment: Development
+INFO  12:13:00 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:13:00 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:13:38 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:13:38  Http GET request calledChecklistProvider
+INFO  12:13:38 Log from ChecklistRepo
+INFO  12:43:06 Application started. Press Ctrl+C to shut down.
+INFO  12:43:06 Application started. Press Ctrl+C to shut down.
+INFO  12:43:06 Hosting environment: Development
+INFO  12:43:06 Hosting environment: Development
+INFO  12:43:06 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:43:06 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:45:05 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:45:05  Http GET request calledChecklistProvider
+INFO  12:45:05 Log from ChecklistRepo
+INFO  12:45:26 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:45:26  Http GET request calledChecklistProvider
+INFO  12:45:26 Log from ChecklistRepo
+INFO  12:45:41 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:45:41  Http GET request calledChecklistProvider
+INFO  12:45:41 Log from ChecklistRepo
+INFO  12:45:54 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:45:54  Http GET request calledChecklistProvider
+INFO  12:45:54 Log from ChecklistRepo
+INFO  12:46:02 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:46:02  Http GET request calledChecklistProvider
+INFO  12:46:02 Log from ChecklistRepo
+INFO  04:23:02 Application started. Press Ctrl+C to shut down.
+INFO  04:23:03 Application started. Press Ctrl+C to shut down.
+INFO  04:23:03 Hosting environment: Development
+INFO  04:23:03 Hosting environment: Development
+INFO  04:23:03 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  04:23:03 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  04:25:02 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:25:02  Http GET request calledChecklistProvider
+INFO  04:25:02 Log from ChecklistRepo
+INFO  04:25:11 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:25:11  Http GET request calledChecklistProvider
+INFO  04:25:11 Log from ChecklistRepo
+INFO  04:25:19 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:25:19  Http GET request calledChecklistProvider
+INFO  04:25:19 Log from ChecklistRepo
+INFO  04:25:30 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:25:30  Http GET request calledChecklistProvider
+INFO  04:25:30 Log from ChecklistRepo
+INFO  04:25:37 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:25:37  Http GET request calledChecklistProvider
+INFO  04:25:37 Log from ChecklistRepo
+INFO  05:22:43 Application started. Press Ctrl+C to shut down.
+INFO  05:22:43 Application started. Press Ctrl+C to shut down.
+INFO  05:22:43 Hosting environment: Development
+INFO  05:22:43 Hosting environment: Development
+INFO  05:22:43 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:22:43 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:24:08 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:24:08  Http GET request calledChecklistProvider
+INFO  05:24:08 Log from ChecklistRepo
+INFO  05:25:59 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:25:59  Http GET request calledChecklistProvider
+INFO  05:25:59 Log from ChecklistRepo
+INFO  05:33:20 Application started. Press Ctrl+C to shut down.
+INFO  05:33:20 Application started. Press Ctrl+C to shut down.
+INFO  05:33:20 Hosting environment: Development
+INFO  05:33:20 Hosting environment: Development
+INFO  05:33:20 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:33:20 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:34:05 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:34:05  Http GET request calledChecklistProvider
+INFO  05:34:05 Log from ChecklistRepo
+INFO  05:42:32 Application started. Press Ctrl+C to shut down.
+INFO  05:42:32 Application started. Press Ctrl+C to shut down.
+INFO  05:42:32 Hosting environment: Development
+INFO  05:42:32 Hosting environment: Development
+INFO  05:42:32 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:42:32 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:43:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:43:21  Http GET request calledChecklistProvider
+INFO  05:43:21 Log from ChecklistRepo
+INFO  05:45:19 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:45:19  Http GET request calledChecklistProvider
+INFO  05:45:19 Log from ChecklistRepo
+INFO  06:44:06 Application started. Press Ctrl+C to shut down.
+INFO  06:44:06 Application started. Press Ctrl+C to shut down.
+INFO  06:44:06 Hosting environment: Development
+INFO  06:44:06 Hosting environment: Development
+INFO  06:44:06 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:44:06 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:45:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:45:03  Http GET request calledChecklistProvider
+INFO  06:45:03 Log from ChecklistRepo
+INFO  06:46:15 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:46:15  Http GET request calledChecklistProvider
+INFO  06:46:15 Log from ChecklistRepo
+INFO  06:58:36 Application started. Press Ctrl+C to shut down.
+INFO  06:58:36 Application started. Press Ctrl+C to shut down.
+INFO  06:58:36 Hosting environment: Development
+INFO  06:58:36 Hosting environment: Development
+INFO  06:58:36 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:58:36 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  07:01:10 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:01:10  Http GET request calledChecklistProvider
+INFO  07:01:10 Log from ChecklistRepo
+INFO  07:01:24 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:01:24  Http GET request calledChecklistProvider
+INFO  07:01:24 Log from ChecklistRepo
+INFO  07:06:09 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:06:09  Http GET request calledChecklistProvider
+INFO  07:06:09 Log from ChecklistRepo
+INFO  07:06:15 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:06:15  Http GET request calledChecklistProvider
+INFO  07:06:15 Log from ChecklistRepo
+INFO  07:24:56 Application started. Press Ctrl+C to shut down.
+INFO  07:24:56 Application started. Press Ctrl+C to shut down.
+INFO  07:24:56 Hosting environment: Development
+INFO  07:24:56 Hosting environment: Development
+INFO  07:24:56 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  07:24:56 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  07:26:27 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:26:27  Http GET request calledChecklistProvider
+INFO  07:26:27 Log from ChecklistRepo
+INFO  07:34:59 Application started. Press Ctrl+C to shut down.
+INFO  07:34:59 Application started. Press Ctrl+C to shut down.
+INFO  07:34:59 Hosting environment: Development
+INFO  07:34:59 Hosting environment: Development
+INFO  07:34:59 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  07:34:59 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  07:36:05 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:36:05  Http GET request calledChecklistProvider
+INFO  07:36:05 Log from ChecklistRepo
+INFO  07:39:04 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:39:04  Http GET request calledChecklistProvider
+INFO  07:39:04 Log from ChecklistRepo
+INFO  07:40:08 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  07:40:08  Http GET request calledChecklistProvider
+INFO  07:40:08 Log from ChecklistRepo
+INFO  08:11:01 Application started. Press Ctrl+C to shut down.
+INFO  08:11:01 Application started. Press Ctrl+C to shut down.
+INFO  08:11:01 Hosting environment: Development
+INFO  08:11:01 Hosting environment: Development
+INFO  08:11:01 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:11:01 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:12:05 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:12:05  Http GET request calledChecklistProvider
+INFO  08:12:05 Log from ChecklistRepo
+INFO  08:39:33 Application started. Press Ctrl+C to shut down.
+INFO  08:39:33 Application started. Press Ctrl+C to shut down.
+INFO  08:39:33 Hosting environment: Development
+INFO  08:39:33 Hosting environment: Development
+INFO  08:39:33 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:39:33 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:41:17 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:41:17  Http GET request calledChecklistProvider
+INFO  08:41:17 Log from ChecklistRepo
+INFO  08:41:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:41:21  Http GET request calledChecklistProvider
+INFO  08:41:21 Log from ChecklistRepo
+INFO  09:12:40 Application started. Press Ctrl+C to shut down.
+INFO  09:12:40 Application started. Press Ctrl+C to shut down.
+INFO  09:12:40 Hosting environment: Development
+INFO  09:12:40 Hosting environment: Development
+INFO  09:12:40 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:12:40 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:14:34 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:14:34  Http GET request calledChecklistProvider
+INFO  09:14:34 Log from ChecklistRepo
+INFO  09:14:41 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:14:41  Http GET request calledChecklistProvider
+INFO  09:14:41 Log from ChecklistRepo
+INFO  09:16:00 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:16:00  Http GET request calledChecklistProvider
+INFO  09:16:00 Log from ChecklistRepo
+INFO  09:24:53 Application started. Press Ctrl+C to shut down.
+INFO  09:24:53 Application started. Press Ctrl+C to shut down.
+INFO  09:24:53 Hosting environment: Development
+INFO  09:24:53 Hosting environment: Development
+INFO  09:24:53 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:24:53 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:27:35 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:27:35  Http GET request calledChecklistProvider
+INFO  09:27:35 Log from ChecklistRepo
+INFO  09:28:43 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:28:43  Http GET request calledChecklistProvider
+INFO  09:28:43 Log from ChecklistRepo
+INFO  10:20:17 Application started. Press Ctrl+C to shut down.
+INFO  10:20:17 Application started. Press Ctrl+C to shut down.
+INFO  10:20:17 Hosting environment: Development
+INFO  10:20:17 Hosting environment: Development
+INFO  10:20:17 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:20:17 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:23:17 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:23:17  Http GET request calledChecklistProvider
+INFO  10:23:17 Log from ChecklistRepo
+INFO  10:24:15 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:24:15  Http GET request calledChecklistProvider
+INFO  10:24:15 Log from ChecklistRepo
+INFO  10:24:40 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:24:40  Http GET request calledChecklistProvider
+INFO  10:24:40 Log from ChecklistRepo
+INFO  10:25:20 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:25:20  Http GET request calledChecklistProvider
+INFO  10:25:20 Log from ChecklistRepo
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:35:05 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:37:27 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:37:27  Http GET request calledChecklistProvider
+INFO  10:37:27 Log from ChecklistRepo
+INFO  10:40:08 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:40:08  Http GET request calledChecklistProvider
+INFO  10:40:08 Log from ChecklistRepo
+INFO  10:40:25 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:40:25  Http GET request calledChecklistProvider
+INFO  10:40:25 Log from ChecklistRepo
+INFO  10:43:20 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:43:20  Http GET request calledChecklistProvider
+INFO  10:43:20 Log from ChecklistRepo
+INFO  10:50:15 Application started. Press Ctrl+C to shut down.
+INFO  10:50:15 Application started. Press Ctrl+C to shut down.
+INFO  10:50:15 Hosting environment: Development
+INFO  10:50:15 Hosting environment: Development
+INFO  10:50:15 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:50:15 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  10:51:43 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:51:43  Http GET request calledChecklistProvider
+INFO  10:51:43 Log from ChecklistRepo
+INFO  10:52:37 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:52:37  Http GET request calledChecklistProvider
+INFO  10:52:37 Log from ChecklistRepo
+INFO  10:55:58 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:55:58  Http GET request calledChecklistProvider
+INFO  10:55:58 Log from ChecklistRepo
+INFO  10:58:55 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:58:55  Http GET request calledChecklistProvider
+INFO  10:58:55 Log from ChecklistRepo
+INFO  10:59:28 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:59:28  Http GET request calledChecklistProvider
+INFO  10:59:28 Log from ChecklistRepo
+INFO  11:00:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:00:48  Http GET request calledChecklistProvider
+INFO  11:00:48 Log from ChecklistRepo
+INFO  09:25:19 Application started. Press Ctrl+C to shut down.
+INFO  09:25:19 Application started. Press Ctrl+C to shut down.
+INFO  09:25:19 Hosting environment: Development
+INFO  09:25:19 Hosting environment: Development
+INFO  09:25:19 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:25:19 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  09:28:41 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:28:41  Http GET request calledChecklistProvider
+INFO  09:28:41 Log from ChecklistRepo
+INFO  09:29:11 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:29:11  Http GET request calledChecklistProvider
+INFO  09:29:11 Log from ChecklistRepo
+INFO  09:30:10 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:30:10  Http GET request calledChecklistProvider
+INFO  09:30:10 Log from ChecklistRepo
+INFO  09:31:41 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  09:31:41  Http GET request calledChecklistProvider
+INFO  09:31:41 Log from ChecklistRepo
+INFO  04:43:54 Application started. Press Ctrl+C to shut down.
+INFO  04:43:55 Application started. Press Ctrl+C to shut down.
+INFO  04:43:55 Hosting environment: Development
+INFO  04:43:55 Hosting environment: Development
+INFO  04:43:55 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  04:43:55 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  04:47:14 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:47:14  Http GET request calledChecklistProvider
+INFO  04:47:14 Log from ChecklistRepo
+INFO  04:47:32 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:47:32  Http GET request calledChecklistProvider
+INFO  04:47:32 Log from ChecklistRepo
+INFO  08:20:18 Application started. Press Ctrl+C to shut down.
+INFO  08:20:18 Application started. Press Ctrl+C to shut down.
+INFO  08:20:18 Hosting environment: Development
+INFO  08:20:18 Hosting environment: Development
+INFO  08:20:18 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:20:18 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  08:24:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:24:06  Http GET request calledChecklistProvider
+INFO  08:24:06 Log from ChecklistRepo
+INFO  08:29:29 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:29:29  Http GET request calledChecklistProvider
+INFO  08:29:29 Log from ChecklistRepo
+INFO  12:47:13 Application started. Press Ctrl+C to shut down.
+INFO  12:47:13 Application started. Press Ctrl+C to shut down.
+INFO  12:47:13 Hosting environment: Development
+INFO  12:47:13 Hosting environment: Development
+INFO  12:47:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:47:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:50:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:50:06  Http GET request calledChecklistProvider
+INFO  12:50:06 Log from ChecklistRepo
+INFO  12:52:08 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:52:08  Http GET request calledChecklistProvider
+INFO  12:52:08 Log from ChecklistRepo
+INFO  12:56:03 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  12:56:03  Http GET request calledChecklistProvider
+INFO  12:56:03 Log from ChecklistRepo
+INFO  02:32:25 Application started. Press Ctrl+C to shut down.
+INFO  02:32:25 Application started. Press Ctrl+C to shut down.
+INFO  02:32:25 Hosting environment: Development
+INFO  02:32:25 Hosting environment: Development
+INFO  02:32:25 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  02:32:25 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  02:33:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  02:33:48  Http GET request calledChecklistProvider
+INFO  02:33:48 Log from ChecklistRepo
+INFO  02:37:36 Application started. Press Ctrl+C to shut down.
+INFO  02:37:36 Application started. Press Ctrl+C to shut down.
+INFO  02:37:36 Hosting environment: Development
+INFO  02:37:36 Hosting environment: Development
+INFO  02:37:36 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  02:37:36 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  02:39:49 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  02:39:49  Http GET request calledChecklistProvider
+INFO  02:39:49 Log from ChecklistRepo
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Application started. Press Ctrl+C to shut down.
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Hosting environment: Development
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:33:56 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:37:29 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:37:29  Http GET request calledChecklistProvider
+INFO  03:37:29 Log from ChecklistRepo
+INFO  03:40:18 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:40:18  Http GET request calledChecklistProvider
+INFO  03:40:18 Log from ChecklistRepo
+INFO  12:57:48 Application started. Press Ctrl+C to shut down.
+INFO  12:57:48 Application started. Press Ctrl+C to shut down.
+INFO  12:57:48 Hosting environment: Development
+INFO  12:57:48 Hosting environment: Development
+INFO  12:57:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  12:57:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  01:00:50 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:00:50  Http GET request calledChecklistProvider
+INFO  01:00:50 Log from ChecklistRepo
+INFO  01:06:14 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:06:14  Http GET request calledChecklistProvider
+INFO  01:06:14 Log from ChecklistRepo
+INFO  01:10:33 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:10:33  Http GET request calledChecklistProvider
+INFO  01:10:33 Log from ChecklistRepo
+INFO  01:11:16 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:11:16  Http GET request calledChecklistProvider
+INFO  01:11:16 Log from ChecklistRepo
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Application started. Press Ctrl+C to shut down.
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Hosting environment: Development
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:12:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:40:47 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:40:47  Http GET request calledChecklistProvider
+INFO  03:40:47 Log from ChecklistRepo
+INFO  05:26:51 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Application started. Press Ctrl+C to shut down.
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Hosting environment: Development
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:26:52 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:29:20 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:29:20  Http GET request calledChecklistProvider
+INFO  05:29:20 Log from ChecklistRepo
+INFO  05:29:33 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:29:33  Http GET request calledChecklistProvider
+INFO  05:29:33 Log from ChecklistRepo
+INFO  05:53:14 Application started. Press Ctrl+C to shut down.
+INFO  05:53:14 Application started. Press Ctrl+C to shut down.
+INFO  05:53:14 Hosting environment: Development
+INFO  05:53:14 Hosting environment: Development
+INFO  05:53:14 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:53:14 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  05:54:37 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:54:37  Http GET request calledChecklistProvider
+INFO  05:54:37 Log from ChecklistRepo
+INFO  06:17:13 Application started. Press Ctrl+C to shut down.
+INFO  06:17:13 Application started. Press Ctrl+C to shut down.
+INFO  06:17:13 Hosting environment: Development
+INFO  06:17:13 Hosting environment: Development
+INFO  06:17:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:17:13 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:18:27 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:18:27  Http GET request calledChecklistProvider
+INFO  06:18:27 Log from ChecklistRepo
+INFO  06:32:48 Application started. Press Ctrl+C to shut down.
+INFO  06:32:48 Application started. Press Ctrl+C to shut down.
+INFO  06:32:48 Hosting environment: Development
+INFO  06:32:48 Hosting environment: Development
+INFO  06:32:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:32:48 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  06:35:59 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:35:59  Http GET request calledChecklistProvider
+INFO  06:35:59 Log from ChecklistRepo
+INFO  06:36:10 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:36:10  Http GET request calledChecklistProvider
+INFO  06:36:10 Log from ChecklistRepo
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Application started. Press Ctrl+C to shut down.
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Hosting environment: Development
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  01:03:45 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  01:07:41 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:07:41  Http GET request calledChecklistProvider
+INFO  01:07:41 Log from ChecklistRepo
+INFO  01:09:02 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  01:09:02  Http GET request calledChecklistProvider
+INFO  01:09:02 Log from ChecklistRepo
+INFO  03:14:26 Application started. Press Ctrl+C to shut down.
+INFO  03:14:26 Application started. Press Ctrl+C to shut down.
+INFO  03:14:26 Hosting environment: Development
+INFO  03:14:26 Hosting environment: Development
+INFO  03:14:26 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:14:26 Content root path: D:\MyAspDotNetProjects\AuditChecklistModule
+INFO  03:15:13 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:15:13  Http GET request calledChecklistProvider
+INFO  03:15:13 Log from ChecklistRepo
+INFO  03:15:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:15:21  Http GET request calledChecklistProvider
+INFO  03:15:21 Log from ChecklistRepo
+INFO  03:15:23 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:15:23  Http GET request calledChecklistProvider
+INFO  03:15:23 Log from ChecklistRepo
